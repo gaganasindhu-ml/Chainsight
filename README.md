@@ -2,8 +2,8 @@
 
 > A machine learning–powered dashboard for predicting global shipment delay risk in real time.
 
-![Overview]
-(https://github.com/gaganasindhu-ml/Chainsight/blob/ac87a5c3a69844b59f91618b7161fba4280b25dd/Screenshot/1.png)
+![Overview](https://github.com/gaganasindhu-ml/Chainsight/blob/main/Screenshot/1.png?raw=true)
+
 ---
 
 ## 📌 Overview
